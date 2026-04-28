@@ -18,3 +18,12 @@
 
 //sdCard_test config
 #define SD_CS 17
+
+
+///mpu6050_test config
+#define PIN_SDA 21
+#define PIN_SCL 22
+#define MPU_ADDR 0x68
+
+#define CALIB_SAMPLES 200
+#define LOOP_MS 200
