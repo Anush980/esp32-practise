@@ -14,4 +14,7 @@
 // scl(clock) --> gpio 18
 // mosi sda(data out)  --> gpio 23
 // miso(data in) --> not used, leave unconnected
-/////
+////
+
+//sdCard_test config
+#define SD_CS 17
